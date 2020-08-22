@@ -9,3 +9,4 @@ class CalcTests(TestCase):
     def test_subtract_numbers(self):
         # VALUES ARE SUBTRACTED AND RETURNED
         self.assertEqual(subtract(5, 11), 6)
+
